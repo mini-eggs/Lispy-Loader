@@ -1,5 +1,9 @@
+Disclaimer: not LiveScript related.
+
 # Lispy Loader
-A LispyScript Webpack Loader
+A LispyScript Webpack Loader.
+
+Read more about [LispyScript](http://lispyscript.com/).
 
 #### Install
 ```bash
