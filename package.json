@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "lerna": "^2.1.2"
+  },
+  "scripts": {
+    "start": "lerna bootstrap",
+    "docs":
+      "cp README.md packages/lispy-loader && cd examples/vue-example && npm run build && cp -r dist ../../docs && cp index.html ../../docs"
+  }
+}
